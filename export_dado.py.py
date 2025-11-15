@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 
+# define o nome do arquivo final
 arquivo = "registro_itens.xlsx"
 produtos = []
 
